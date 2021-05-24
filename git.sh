@@ -1,1 +1,1 @@
-git a .;git c -m "$*"; git pp
+git add .;git commit -m "$*"; git push
